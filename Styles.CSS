@@ -16,3 +16,15 @@
     text-decoration: double;
     
  }
+img {
+   height: 200px;
+   width: 180px;
+}
+.emp{
+   float: left;
+
+}
+.head{
+   display: block;
+
+}
